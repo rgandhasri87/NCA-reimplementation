@@ -1,0 +1,1 @@
+from nca_utils.utils import load_emoji
